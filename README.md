@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello there. General <s>Kenobi</s> Katorea here.
+This project is a life-long one, constantly reiterating to improve and ocassionally fixing bugs.
 
-<!--
-**Katorea132/Katorea132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Love learning new stuff
+  - Enjoy challenges
+  - :pizza:Pizza:pizza:
+  - Trying to improve my cybersecurity knowledge so I can play on some CTFs!
+ 
+### What is my relationship with programming?
+Basically I find in programming a tool to make whatever on earth I want. Making creative and new ways to solve any given problem [sparks joy](https://youtu.be/WvyeapVBLWY?t=22) in my heart and with a powerful tool such as programming, I've been having nothing but fun!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What do I do besides programming?
+  - Been learning how to draw, royally suck at it but I'm improving through constant practice! ([This place](https://drawabox.com/) is a great resource to start!)
+  - I love languages in general, so far I only know english and spanish, but have been learning japanese for a while now (not quite enough to claim that I speak it) and my eyes are also on french, SoonTM.
+  - Enjoy music a lot, I know how to play the bass and I'm trying to learn to play the piano, can't read music though, working on that!
+  - I play video games, A LOT.
+### Where can you contact me?
+  - [![](http://i.imgur.com/tXSoThF.png)](https://twitter.com/Katorea132) [@Katorea132](https://twitter.com/Katorea132)
+  - That's about it, unless you come from another website in which you accessed to my github, if that's the case, you can also contact me there :D
+<details>
+<summary></summary>
+  <h1><b>Fun Facts</b></h1>
+  <ul>
+    <li>:cherry_blossom: Katorea is how you spell with roman letters Cattleya in japanese, and I love Cattleyas, and I love japanese. :cherry_blossom:</li>
+    <li>Smart Guy Cocoa is the result of an auto correction which I found funny and sticked with it.</li>
+    <li>Spider-man best hero.</li>
+    <li><a href="https://en.hololive.tv/">Yagoo</a> best girl.</li>
+  </ul>
+</details>
