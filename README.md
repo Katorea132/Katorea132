@@ -17,8 +17,8 @@ Basically I find in programming a tool to make whatever on earth I want. Making 
   - [![](http://i.imgur.com/tXSoThF.png)](https://twitter.com/Katorea132) [@Katorea132](https://twitter.com/Katorea132)
   - That's about it, unless you come from another website in which you accessed to my github, if that's the case, you can also contact me there :D
 <details>
-<summary>Clicky click :3</summary>
-  <h1><b>Fun Facts</b></h1>
+<summary>:3</summary>
+  <h1><b>Fun Facts!</b></h1>
   <ul>
     <li>:cherry_blossom: Katorea is how you spell with roman letters Cattleya in japanese, and I love Cattleyas, and I love japanese. :cherry_blossom:</li>
     <li>Smart Guy Cocoa is the result of an auto correction which I found funny and sticked with it.</li>
